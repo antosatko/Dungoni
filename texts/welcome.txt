@@ -1,0 +1,7 @@
+Welcome, adventurers, to the world of Dungoni! I am your humble narrator, here to guide you on your journey through this fantastical realm.
+
+In Dungoni, you will face many challenges and obstacles as you explore dungeons, battle fearsome monsters, and uncover the secrets of this mysterious land. But fear not, for with your wits, skills, and a bit of luck, you will emerge victorious and claim your place among the bravest heroes of Dungoni.
+
+So sharpen your blades, prepare your spells, and get ready for an adventure like no other. The fate of Dungoni rests in your hands, and the rewards for those who succeed are beyond measure. Let us begin our journey together, and may the winds of fortune be ever in your favor.
+
+To start the game, type 'new' or 'load'. At any point, you can use the command 'help' to get assistance

@@ -1,0 +1,8 @@
+If you choose to explore the dungeon, you will enter a series of rooms. Each room costs stamina to enter, and you can eat food to convert it into stamina. The possible rooms are:
+
+Small room: contains a small monster or small treasure or both or nothing. It costs 1 stamina to enter.
+Big room: contains a small monster or a big monster and a big treasure or a big monster. It costs 2 stamina to enter.
+Treasure room: contains a big treasure or small treasure. It costs 5 stamina to enter.
+Escape passage: allows you to return to camp without spending stamina. It costs 0 stamina to enter.
+Final room: contains a big monster and a big treasure, and allows you to return to camp without spending stamina. It costs 1 stamina to enter.
+Before entering a room, you can choose to eat food or flee. If you choose to flee, it costs stamina for each room you entered, and you will leave the dungeon. You will lose the game if you run out of stamina, even if you have food left.

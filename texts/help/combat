@@ -1,0 +1,3 @@
+If you encounter a monster during exploration, you will enter combat mode. The monster always attacks first, and you start with 100 HP plus HP from your items. If you kill the monster, you will be rewarded with a small treasure, and you can collect the remaining treasure in the room.
+
+During combat, you can choose to attack, eat, flee, or hide. Attacking costs 1 stamina, eating converts food into stamina, fleeing costs 1 stamina per room you entered + 5, and hiding has a small chance for the monster to leave. The process will loop until you flee, win, die, or if the monster leaves.
